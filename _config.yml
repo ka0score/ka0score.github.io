@@ -8,8 +8,8 @@ permalink:        pretty
 # Setup
 title:            The man who whispered to machines
 tagline:          'a Ka0s Inc since 1986'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://new.ka0s.io
+description:      'Principalmente hablamos de automatizacion, ciberseguridad, desarrollo de software y temas relacionados con los diferentes modelos de BIL (Brother in Law).'
+url:              http://news.ka0s.io
 baseurl:          /
 
 author:
